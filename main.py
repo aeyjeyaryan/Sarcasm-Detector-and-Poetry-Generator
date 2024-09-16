@@ -16,7 +16,7 @@ training_size = 20000
 sample_texts = [
     "This is a test sentence.",
     "Sarcasm is often hard to detect in text.",
-    "I love coding and building AI models."
+    "I think AI models are awesome."
 ]
 
 # Initialize and fit the tokenizer on some data
