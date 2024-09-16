@@ -45,7 +45,7 @@ else:
 
     next_words = 100
 
-    if sarcasm > 0.5:
+    if sarcasm > 0.9:
         print(f"There was sarcasm in the text {sarcasm[0][0]*100:.2f}%")
     else:
         # Generate text using the poetry model
